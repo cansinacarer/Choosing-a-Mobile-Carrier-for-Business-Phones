@@ -5,7 +5,7 @@ Company X is a manufacturing company in Hamilton, ON, Canada. The management pla
 
 This project will answer the following questions to help them choose an MNO:
 1. The sales representatives of Company X travel across Canada for client meetings and Company X wants to provide them with cell service with the widest coverage across Canada, so they ask: Which MNO has the widest coverage across Canada in terms of the number of ISED Service Areas covered?
-2. Company X wants the engineers to be reachable by their work phones during the weekends in case of emergencies. The engineers are known to travel around Southern Ontario on weekends, so the management wants to choose the MNO with the most reliable coverage in Southern Ontario region and they ask: Which MNO has the widest bandwidth per person (in MHz/people based on 2016 census) at Southern Ontario and in Hamilton, ON?
+2. Company X wants the engineers to be reachable by their work phones during the weekends in case of emergencies. The engineers are known to travel around Southern Ontario on weekends, so the management wants to choose the MNO with the most reliable coverage in Southern Ontario region and they ask: Which MNO has the widest bandwidth per person (in MHz/people based on 2016 census) at Southern Ontario?
 3. Management is also concerned about the privacy concerns raised in media about Huawei branded cell tower equipment. They want to know: What the proportion of each MNO's hardware is Huawei branded?
 
 ## Results
