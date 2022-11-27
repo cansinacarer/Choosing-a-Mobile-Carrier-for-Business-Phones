@@ -30,3 +30,6 @@ The file size of one of the data files used in this project exceeds the GitHub's
 - Matplotlib: Used for creating plots.
 
 Installing GeoPandas can be a little tricky; if you have any issues related to dependencies, please see [this page](https://cacarer.com/tip/installing-geopandas-with-its-dependencies-without-installing-microsoft-visual-c/) for further instructions. The other packages imported in the notebook can be installed with `pip install packageName`, assuming your path variables are set correctly.
+
+## Note
+All code and analysis on this GitHub repository and the related blog post on my personal website are the original work independently done by Cansin Cagan Acarer using data made publicly available on the website of Innovation, Science And Economic Development Canada (ISED). The findings and opinions expressed in the scope of this project on this GitHub repository and the related blog post on my personal website solely belong to Cansin Cagan Acarer; they neither represent the opinion of nor are done in cooperation with any corporation.
